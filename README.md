@@ -5,4 +5,11 @@ This is a simple setup to show how to use RabbitMQ to:
 * update the UI, in this case React, using Server-Sent Events to be efficient (avoid polling);
 
 
+The state diagram is the following:
+
 ![alt text](./img/sequence.png)
+
+
+From a queue point of view is this:
+
+![alt text](./img/queue.png)

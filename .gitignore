@@ -1,0 +1,6 @@
+Backend/venv/
+Backend/src/__pycache__
+
+UI/node_modules/
+UI/package-lock.json
+UI/.next/
